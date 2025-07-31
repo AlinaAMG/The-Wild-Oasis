@@ -21,6 +21,8 @@
 
 Gebruik deze demo-account om de app uit te proberen zonder een nieuwe account aan te maken:
 
+https://thewild-oasis-app.netlify.app/dashboard
+
 - **Email:** maria@yahoo.com  
 - **Password:** mariamaria
 
