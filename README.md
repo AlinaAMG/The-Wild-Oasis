@@ -40,15 +40,15 @@ Gebruik deze demo-account om de app uit te proberen zonder een nieuwe account aa
 
 ## ScreenShots van dit Project
 
-![Login Page van The Wild Oasis](../the-wild-oasis//public//login.jpg);
+![Login Page van The Wild Oasis](https://github.com/AlinaAMG/The-Wild-Oasis/blob/main/public/login.jpg);
 
-![Dashboard van The Wild Oasis](../the-wild-oasis//public//dashboard.jpg);
+![Dashboard van The Wild Oasis](https://github.com/AlinaAMG/The-Wild-Oasis/blob/main/public/dashboard.jpg));
 
-![Bookings Page van The Wild Oasis](../the-wild-oasis//public//bookings.jpg);
+![Bookings Page van The Wild Oasis](https://github.com/AlinaAMG/The-Wild-Oasis/blob/main/public/bookings.jpg);
 
-![Booking Details Page van The Wild Oasis](../the-wild-oasis//public//bookingDetails.jpg);
+![Booking Details Page van The Wild Oasis](https://github.com/AlinaAMG/The-Wild-Oasis/blob/main/public/bookingDetails.jpg);
 
-![Cabins Page van The Wild Oasis](../the-wild-oasis//public//cabins.jpg);
+![Cabins Page van The Wild Oasis](https://github.com/AlinaAMG/The-Wild-Oasis/blob/main/public/cabins.jpg);
 
-![Update Account Page van The Wild Oasis](../the-wild-oasis//public//updateAccount.jpg);
+![Update Account Page van The Wild Oasis](https://github.com/AlinaAMG/The-Wild-Oasis/blob/main/public/updateAccount.jpg);
 
